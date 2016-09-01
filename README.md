@@ -148,3 +148,16 @@ EUR-BRL (Euro)
 GBP-BRL (Libra Esterlina)
 
 ARS-BRL (Peso Argentino)
+
+##Legendas
+bid: Compra
+
+ask: Venda
+
+varBid: Variação
+
+pctChange: Porcentagem de Variação
+
+high: Máximo
+
+low: Mínimo
