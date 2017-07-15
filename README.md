@@ -4,7 +4,7 @@ API de Cotações do Dólar (USD, USDT, CA), Euro, Libra e Peso, atualizado de 1
 ## Exemplo de uso
 
 ```
-curl https://economy.awesomeapi.com.br/json/all
+curl https://economia.awesomeapi.com.br/all
 ```
 ```json
 {
@@ -109,10 +109,10 @@ curl https://economy.awesomeapi.com.br/json/all
 
 ## Uma única moeda
 ```
-https://economy.awesomeapi.com.br/json/{MOEDA}/{Numero de resultados}
+https://economia.awesomeapi.com.br/{MOEDA}/{Numero de resultados}
 ```
 ```
-curl http://economy.awesomeapi.com.br/json/USD-BRL/1
+curl http://economia.awesomeapi.com.br/USD-BRL/1
 ```
 ```json
 [
@@ -134,30 +134,48 @@ curl http://economy.awesomeapi.com.br/json/USD-BRL/1
   }
 ]
 ```
+> **Códigos disponíveis**
+> - USD-BRL (Dólar Comercial)
+> - USD-BRLT (Dólar Turismo)
+> - CAD-BRL (Dólar Canadense)
+> - EUR-BRL (Euro)
+> - GBP-BRL (Libra Esterlina)
+> - ARS-BRL (Peso Argentino)
 
-##Códigos disponíveis
+## Formato de saída
+```
+curl http://economia.awesomeapi.com.br/xml/USD-BRL/1
+curl http://economia.awesomeapi.com.br/USD-BRL/1?format=xml
+```
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+	<item>
+		<idreg>428446</idreg>
+		<codein>BRL</codein>
+		<high>3.206</high><pctChange>-0.726</pctChange>
+		<bid>3.1839</bid>
+		<timestamp>1500062400000</timestamp>
+		<notFresh>1</notFresh>
+		<create_date>2017-07-15 12:30:02</create_date>
+	</item>
+</xml>
 
-USD-BRL (Dólar Comercial)
+```
+> **Formatos suportados**
+> - JSON
+> - JSONP
+> - XML
+> - HTML
+> - CSV
+> - SERIALIZED
 
-USD-BRLT (Dólar Turismo)
-
-CAD-BRL (Dólar Canadense)
-
-EUR-BRL (Euro)
-
-GBP-BRL (Libra Esterlina)
-
-ARS-BRL (Peso Argentino)
-
-##Legendas
-bid: Compra
-
-ask: Venda
-
-varBid: Variação
-
-pctChange: Porcentagem de Variação
-
-high: Máximo
-
-low: Mínimo
+### Legendas
+Key | Tradução
+-------- | ---
+**bid** | Compra
+**ask** | Venda
+**varBid** | Variação
+**pctChange** |  Porcentagem de Variação
+**high** | Máximo
+**low** | Mínimo
