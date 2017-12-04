@@ -1,5 +1,5 @@
 # API de Cotações
-API de Cotações do Dólar (USD, USDT, CA), Euro, Libra Peso, Bitcoin, atualizado de 10 em 10 minutos.
+API de Cotações do Dólar (USD, USDT, CA), Euro, Libra, Peso e Bitcoin, atualizado de 10 em 10 minutos.
 
 ## Exemplo de uso
 
