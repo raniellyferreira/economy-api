@@ -147,7 +147,7 @@ curl http://economia.awesomeapi.com.br/USD-BRL/1
 
 ## Formato de saída
 ```
-curl http://economia.awesomeapi.com.br/jsonp/05424020?callback=jsonp_callback
+curl http://economia.awesomeapi.com.br/jsonp/USD-BRL/1?callback=jsonp_callback
 curl http://economia.awesomeapi.com.br/xml/USD-BRL/1
 curl http://economia.awesomeapi.com.br/USD-BRL/1?format=xml
 ```
