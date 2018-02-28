@@ -1,3 +1,5 @@
+[![AwesomeAPI](https://cdn.awesomeapi.com.br/awesomeapi/assets/awapi1c.png)](https://economia.awesomeapi.com.br/)
+
 # API de Cotações
 API de Cotações do Dólar (USD, USDT, CA), Euro, Libra, Peso e Bitcoin, atualizado de 10 em 10 minutos.
 
