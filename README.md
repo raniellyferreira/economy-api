@@ -3,7 +3,7 @@
 # API de Cotações
 API de Cotações do Dólar (USD, USDT, CA), Euro, Libra, Peso e Bitcoin, atualizado de 10 em 10 minutos.
 
-# DOCUMENTAÇAO DESATUALIZADA
+# DOCUMENTAÇÃO DESATUALIZADA
 Veja a documentação atualizada em [https://docs.awesomeapi.com.br/](https://docs.awesomeapi.com.br/)
 
 ## Exemplo de uso
