@@ -1,7 +1,7 @@
 [![AwesomeAPI](https://cdn.awesomeapi.com.br/awesomeapi/assets/awapi1c.png)](https://economia.awesomeapi.com.br/)
 
 # API de Cotações
-API de Cotações do Dólar (USD, USDT, CA, AUD), Euro, Libra, Peso, Iene, Franco, Litecoin e Bitcoin, atualizado a cada 5 minutos.
+API de Cotações do Dólar (USD, USDT, CA, AUD), Euro, Libra, Peso, Iene, Franco, Yuan Chinês, Shekel Israelense, Litecoin e Bitcoin, atualizado a cada 5 minutos.
 
 # DOCUMENTAÇÃO DESATUALIZADA
 Veja a documentação atualizada em [https://docs.awesomeapi.com.br/](https://docs.awesomeapi.com.br/)
