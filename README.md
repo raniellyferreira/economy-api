@@ -10,7 +10,7 @@ Retornar moedas selecionadas
 ```sh
 $ curl https://economia.awesomeapi.com.br/json/all/USD-BRL,EUR-BRL
 ```
-```json
+```js
 {
     USD: {
         code: "USD",
@@ -45,7 +45,7 @@ $ curl https://economia.awesomeapi.com.br/json/all/USD-BRL,EUR-BRL
 ```sh
 $ curl https://economia.awesomeapi.com.br/json/all
 ```
-```json
+```js
 {
     USD: {
         code: "USD",
