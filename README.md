@@ -45,7 +45,7 @@ $ curl https://economia.awesomeapi.com.br/json/all/USD-BRL,EUR-BRL
 ```sh
 $ curl https://economia.awesomeapi.com.br/json/all
 ```
-```js
+```json
 {
     "USD": {
         "code": "USD",
