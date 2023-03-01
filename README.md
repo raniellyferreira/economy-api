@@ -1,4 +1,4 @@
-[<img src="https://cdn.awesomeapi.com.br/v2/png/logo-without-slogan.png" height="70px" />](https://awesomeapi.com.br/)
+[<img src="https://cdn.awesomeapi.com.br/v2/png/logo-without-slogan.png" height="40px" />](https://awesomeapi.com.br/)
 
 # API de Cotações
 API de Cotações em tempo real com mais de 150 moedas
