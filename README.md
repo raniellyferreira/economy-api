@@ -1,7 +1,7 @@
-[![AwesomeAPI](https://cdn.awesomeapi.com.br/awesomeapi/assets/awapi1c.png)](https://economia.awesomeapi.com.br/)
+[<img src="https://cdn.awesomeapi.com.br/v2/png/logo-without-slogan.png" height="70px" />](https://economia.awesomeapi.com.br/)
 
 # API de Cotações
-API de Cotações, mais de 150 moedas diferentes
+API de Cotações em tempo real com mais de 150 moedas
 
 ### Veja toda a documentação em [https://docs.awesomeapi.com.br/](https://docs.awesomeapi.com.br/)
 
