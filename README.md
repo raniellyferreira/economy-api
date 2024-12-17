@@ -3,6 +3,8 @@
 # API de Cotações
 API de Cotações em tempo real com mais de 150 moedas
 
+### Veja sobre planos e limites em nosso site [https://awesomeapi.com.br/](https://awesomeapi.com.br/)
+
 ### Veja toda a documentação em [https://docs.awesomeapi.com.br/](https://docs.awesomeapi.com.br/)
 
 ## Exemplo de uso
